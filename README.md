@@ -1,1 +1,1 @@
-# kh-personal-website
+# Kenneth Ho Personal Website
